@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIn0",
+    "payload": "eyJkb21haW4iOiJjYXN0YmV0LWFwcC52ZXJjZWwuYXBwIn0",
+    "signature": "MHg..."
+  },
+  "frame": {
+    "version": "next",
+    "name": "CastBet",
+    "iconUrl": "https://castbet-8jg4zxtc8-xabiers-projects-c5a11aae.vercel.app/icon.svg",
+    "homeUrl": "https://castbet-8jg4zxtc8-xabiers-projects-c5a11aae.vercel.app",
+    "imageUrl": "https://castbet-8jg4zxtc8-xabiers-projects-c5a11aae.vercel.app/og-image.svg",
+    "buttonTitle": "Explore Markets",
+    "splashImageUrl": "https://castbet-8jg4zxtc8-xabiers-projects-c5a11aae.vercel.app/splash.svg",
+    "splashBackgroundColor": "#0ea5e9",
+    "webhookUrl": "https://castbet-8jg4zxtc8-xabiers-projects-c5a11aae.vercel.app/api/webhook"
+  }
+}

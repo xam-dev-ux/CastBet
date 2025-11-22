@@ -1,0 +1,23 @@
+<svg width="1080" height="1920" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1920" fill="#0ea5e9"/>
+
+  <!-- Decorative circles -->
+  <circle cx="540" cy="400" r="200" fill="white" opacity="0.1"/>
+  <circle cx="200" cy="1500" r="150" fill="white" opacity="0.08"/>
+  <circle cx="880" cy="1500" r="150" fill="white" opacity="0.08"/>
+
+  <!-- Logo circle -->
+  <circle cx="540" cy="700" r="180" fill="white" opacity="0.2"/>
+  <text x="540" y="780" font-family="Arial, sans-serif" font-size="180" font-weight="bold" fill="white" text-anchor="middle">CB</text>
+
+  <!-- App name -->
+  <text x="540" y="1100" font-family="Arial, sans-serif" font-size="100" font-weight="bold" fill="white" text-anchor="middle">CastBet</text>
+
+  <!-- Tagline -->
+  <text x="540" y="1220" font-family="Arial, sans-serif" font-size="48" fill="white" text-anchor="middle" opacity="0.9">Social Prediction Markets</text>
+
+  <!-- Network badge -->
+  <rect x="340" y="1600" width="400" height="80" fill="white" opacity="0.15" rx="40"/>
+  <text x="540" y="1655" font-family="Arial, sans-serif" font-size="42" font-weight="600" fill="white" text-anchor="middle">Powered by Base</text>
+</svg>
