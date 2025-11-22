@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "env": {
+    "NEXT_PUBLIC_CASTBET_ADDRESS": "0xC3C65ED700DCCd790e8A370eF2DaE520d44f223c",
+    "NEXT_PUBLIC_USDC_ADDRESS": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "NEXT_PUBLIC_CHAIN_ID": "8453",
+    "NEXT_PUBLIC_FARCASTER_HUB_URL": "https://hub.farcaster.xyz"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIn0",
+    "payload": "eyJkb21haW4iOiJjYXN0YmV0LmFwcCJ9",
+    "signature": "MHg..."
+  },
+  "frame": {
+    "version": "next",
+    "name": "CastBet",
+    "iconUrl": "https://castbet.app/icon.png",
+    "homeUrl": "https://castbet.app",
+    "imageUrl": "https://castbet.app/og-image.png",
+    "buttonTitle": "Explore Markets",
+    "splashImageUrl": "https://castbet.app/splash.png",
+    "splashBackgroundColor": "#0ea5e9",
+    "webhookUrl": "https://castbet.app/api/webhook"
+  }
+}
